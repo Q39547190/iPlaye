@@ -1,0 +1,45 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"测试",
+"episode_flag":false,
+"landscape_flag":true,
+"open_with_safari_flag":true,
+"category": [{
+			"title": "中文",
+			"url0": "https://missav.com/cn/chinese-subtitle",
+			"url1": "https://missav.com/cn/chinese-subtitle?page={pg}"
+		},
+		{
+			"title": "中文",
+			"url0": "https://missav.com/cn/chinese-subtitle",
+			"url1": "https://missav.com/cn/chinese-subtitle?page={pg}"
+		}
+	],  
+"vod_node":"//div[contains(@class, 'my-2 text-sm text-nord4 truncate')]//div[contains(@class, 'rounded-md text-nord0 bg-nord5 shadow-xs')]",
+"vod_info":"//span[@class='absolute bottom-1 left-1 rounded-lg px-2 py-1 text-xs text-nord5 bg-red-800 bg-opacity-75']",
+"vod_score":"",
+"vod_title":"//img//@alt",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://missav.com/cn/search/{wd}",
+"search_url_other_page":"https://missav.com/cn/search/{wd}?page={pg}&type=title",
+"search_vod_node":"//div[contains(@class, 'my-2 text-sm text-nord4 truncate')]//div[contains(@class, 'rounded-md text-nord0 bg-nord5 shadow-xs')]",
+"search_vod_title":"//img//@alt",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"{id}"
+}
