@@ -5,8 +5,8 @@
 "landscape_flag":true,
 "category": [{
 			"title": "首页",
-			"url0": "https://hanime1.me/search",
-			"url1": "https://hanime1.me/search?page={pg}"
+			"url0": "https://hanime1.me/search?sort=最新上傳&page=",
+			"url1": "https://hanime1.me/search?sort=最新上傳&page={pg}"
 		}
              
 	],  
