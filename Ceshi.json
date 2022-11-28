@@ -10,7 +10,7 @@
 		}
              
 	],  
-"vod_node":"//div[contains(@class, 'card-mobile-panel')]//div[contains(@class, 'content-padding-new')]",
+"vod_node":"//div[contains(@class, 'hover-lighter')]//div[contains(@class, 'content-padding-new')]",
 "vod_info":"//div[@class='card-mobile-duration']",
 "vod_score":"",
 "vod_title":"//div[@class='card-mobile-title']",
@@ -30,7 +30,7 @@
 "search_flag":true,
 "search_url_first_page":"https://hanime1.me/search?sort={wd}",
 "search_url_other_page":"https://hanime1.me/search?sort={wd}&page={pg}",
-"search_vod_node":"//div[contains(@class, 'card-mobile-panel')]//div[contains(@class, 'content-padding-new')]",
+"search_vod_node":"//div[contains(@class, 'hover-lighter')]//div[contains(@class, 'content-padding-new')]",
 "search_vod_title":"//div[@class='card-mobile-title']",
 "search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
