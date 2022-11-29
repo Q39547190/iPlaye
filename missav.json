@@ -10,7 +10,7 @@
 			"url1": "https://missav.com/cn/release?page={pg}"
 		}
 	],  
-"vod_node":"//div[contains(@class, 'grid')]//div[contains(@class, 'thumbnail group')]",
+"vod_node":"//div[contains(@class, 'grid-cols-2')]//div[contains(@class, 'thumbnail group')]",
 "vod_info":"//span[@class='absolute bottom-1 right-1 rounded-lg px-2 py-1 text-xs text-nord5 bg-gray-800 bg-opacity-75']",
 "vod_score":"",
 "vod_title":"//img/@alt",
